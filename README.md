@@ -14,8 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Stick%20No%20Bills&vCenter=true&center-true&size=30&color=ff536d&width=480&lines=Estudiante%20de%20DAM%20en%20prácticas;Futuro%20Pro%20en%20Backend%20y%20Ciberseguridad;Bug%20...%20¿Qué%20es%20eso?%20👀)](https://git.io/typing-svg)
 
 
-<a><base href="https://discord.com/invite/u3dsh9M">This gives a base url for all further urls on the page</a>
-<link href="style.css">This is a live link to an external stylesheet</a>
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/pokemon/blob-pkmn-bulbasaur.png" width="30px">
