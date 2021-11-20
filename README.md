@@ -5,7 +5,7 @@
     <p>
       <a href="https://discord.com/invite/u3dsh9M" target="blank">
           <img align="center" alt="Discord" width="30px" src="https://img.icons8.com/nolan/64/discord-logo.png" /> </a>
-      <a href="https://www.twitch.tv/kotliin" target="_blank">
+      <a href="https://www.twitch.tv/mouredev" target="_blank">
           <img align="center" alt="Twitch" width="30px" src="https://img.icons8.com/nolan/64/twitch.png" /> </a>
     </p>    
 </h1>
@@ -16,7 +16,7 @@
 
 
 
-# Hi, folks! <img src="https://i1.wp.com/bobalicon.com/wp-content/uploads/2021/04/Tercer-Luna-Demoniaca-Akaza.jpg?resize=759%2C500&ssl=1" width="30px">
+# Hi, folks! <img src="https://i1.wp.com/bobalicon.com/wp-content/uploads/2021/04/Tercer-Luna-Demoniaca-Akaza.jpg?resize=759%2C500&ssl=1" width="100px" height="100px">
 
 
 ### Tecnologías & Herramientas
