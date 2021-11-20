@@ -11,12 +11,12 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Stick%20No%20Bills&vCenter=true&center-true&size=30&color=ff536d&width=480&lines=Estudiante%20de%20DAM%20en%20prácticas;Futuro%20Pro%20en%20Backend%20y%20Ciberseguridad;Bug%20...%20¿Qué%20es%20eso?%20👀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Stick%20No%20Bills&vCenter=true&center-true&size=30&color=ff536d&width=480&lines=Estudiante%20de%20DAM%20en%20prácticas;Futuro%20Pro%20en%20Desarrollo%20de%20Aplicacionesy%20Ciberseguridad;Bug%20...%20¿Qué%20es%20eso?%20👀)](https://git.io/typing-svg)
 
 
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/pokemon/blob-pkmn-bulbasaur.png" width="30px">
+# Hi, folks! <img src="https://i1.wp.com/bobalicon.com/wp-content/uploads/2021/04/Tercer-Luna-Demoniaca-Akaza.jpg?resize=759%2C500&ssl=1" width="30px">
 
 
 ### Tecnologías & Herramientas
