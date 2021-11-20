@@ -16,7 +16,7 @@
 
 
 
-# Hi, folks! <img src="https://i1.wp.com/bobalicon.com/wp-content/uploads/2021/04/Tercer-Luna-Demoniaca-Akaza.jpg?resize=759%2C500&ssl=1" width="100px" height="100px">
+# Hi, folks! <img src="https://i1.wp.com/bobalicon.com/wp-content/uploads/2021/04/Tercer-Luna-Demoniaca-Akaza.jpg?resize=759%2C500&ssl=1" width="100px" >
 
 
 ### Tecnologías & Herramientas
